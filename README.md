@@ -6,8 +6,7 @@ This project demonstrates the process of setting up an Azure data engineering pi
 ## Steps
 1. **Storage Account and Containers**:
    - Created a storage account with containers for raw and transformed data.
-![Storage Account](https://github.com/PolinaBurova/Azure-Data-Engineering-Project/blob/main/screenshots/data_storage.png)
-
+     
 2. **Data Factory**:
    - Set up a Data Factory pipeline to ingest CSV data from an API into Azure Data Lake Storage Gen2.
 ![Data Factory](https://github.com/PolinaBurova/Azure-Data-Engineering-Project/blob/main/screenshots/pipeline.png)
